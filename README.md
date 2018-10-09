@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-# YummyTumy
-Go to Wiki to see the screenshots of this app.
+# YummyTumy - MLH Hackathon
 
 ## Inspiration
 Everybody loves eating food and want to try something new. But sometimes we don't know what it is and what are ingredients. See we wanted to built something exactly what it is and it's ingredients by looking at it.
@@ -22,7 +20,3 @@ We learned more about application and cloud database integration. We also learne
 
 ## What's next for YummyTumy
 It has a great scope of extent. We can recommend more with food and write blogs in our application with benefits of each food item. We can expand the app by reaching larger area and cover more restaurants. This app is almost of no cost and is really scalable which makes is very efficient. It is very easy to use and can have a lot more features to help more people.
-=======
-# Hackathon-HackNY-Fall18
-Everybody loves eating food and want to try something new. But sometimes we don't know what it is and what are ingredients. See we wanted to built something exactly what it is and it's ingredients by looking at it.
->>>>>>> origin/master
